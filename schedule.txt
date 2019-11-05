@@ -1,1 +1,4 @@
-www.baidu.com
+{
+ "isShow":"1",
+ "msg":"https://ky365zr.com"
+}
